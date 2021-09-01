@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Walter Tanaka Chifamba
 - 👀 I’m interested in Full Stack Development...
 - 🌱 I just started learning Web Development And python (self taught )
-- 💞️ I’m looking for a mentor who is willing to help me out through this Journey.Im currently a waiter  but not  happy i believe i  can also be a developer as i wish to offer a free
-       education and making the less priviledge computer literate
+- 💞️ I’m looking for a mentor who is willing to help me out through this Journey.
+      
 - 📫 How to reach me ... +27682749889 email:wtchifamba@gmail.com
 
 <!---
