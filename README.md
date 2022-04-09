@@ -3,7 +3,7 @@
 - 🌱 I just started learning Web Development And python (self taught )
 - 💞️ I’m looking for a mentor who is willing to help me out through this Journey.
       
-- 📫 How to reach me ... +27682749889 email:wtchifamba@gmail.com
+- 📫 How to reach me ... +27662854536 email:wtchifamba@gmail.com
 
 <!---
 tanakawale/tanakawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
